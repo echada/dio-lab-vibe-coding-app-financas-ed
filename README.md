@@ -404,6 +404,61 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 
 > [!TIP]
 > Se preferir, você pode fazer tudo com o **Copilot**. O importante é exercitar a habilidade de transformar intenções em instruções claras e testar os limites da IA como parceira criativa.
+>
+--------------------------------------------------------------------------------------------
+> PROMPT LOVABLE
+--------------------------------------------------------------------------------------------
+>
+> Crie um app de finanças com base no seguinte PRD (Product Requirements Document): 
+
+PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
+
+1. Contexto
+O objetivo é criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas em linguagem natural.  
+A proposta é simplificar o controle financeiro, eliminando formulários complexos e planilhas, oferecendo uma experiência fluida e acessível.
+
+2. Problema
+- Usuários desistem de controlar seus gastos porque os apps atuais exigem entrada manual excessiva.  
+- Falta de personalização e de recomendações práticas.  
+- Necessidade de uma solução que seja intuitiva, conversacional e educativa.
+
+3. Público-Alvo
+- Pessoas que desejam iniciar o controle financeiro de forma prática.  
+- Usuários iniciantes em finanças pessoais, que buscam simplicidade e orientação.  
+- Jovens adultos e profissionais que preferem interações rápidas e naturais em vez de interfaces tradicionais.
+
+4. Funcionalidades-Chave
+1. Registro de gastos via chat em linguagem natural.  
+2. Classificação automática das transações (alimentação, transporte, lazer etc.).  
+3. Agrupamento das categorias de transações em fixas (ex.: aluguel, internet) e variáveis (ex.: lazer, alimentação), com exibição de ícones visuais que permitam identificar cada tipo.  
+4. Definição e acompanhamento de metas financeiras (ex.: poupar R$500/mês).  
+5. Agente Financeiro Inteligente que fornece dicas personalizadas de economia.  
+6. Relatórios visuais e personalizados, simples de interpretar.  
+7. Design Universal para garantir acessibilidade e boa experiência para o maior número possível de usuários.
+
+5. Entregável da IA
+- Plano de MVP (Produto Mínimo Viável):
+  - Principais telas:  
+    - Tela de chat (entrada de gastos e interação com o agente).  
+    - Tela de metas financeiras.  
+    - Tela de relatórios simples (gráficos e insights).  
+    - Tela de categorias com agrupamento fixas/variáveis e ícones de identificação.  
+  - Recursos necessários:  
+    - Processamento de linguagem natural (NLP).  
+    - Motor de categorização automática.  
+    - Sistema de agrupamento de categorias fixas e variáveis com ícones visuais.  
+    - Sistema de metas e notificações.  
+    - Módulo de relatórios visuais.  
+    - Diretrizes de Design Universal (contraste adequado, navegação simples, suporte a leitores de tela).  
+  - Validação inicial:  
+    - Testes com grupo piloto de usuários iniciantes.  
+    - Inclusão de usuários com diferentes perfis.  
+    - Coleta de feedback sobre clareza das interações, utilidade das recomendações e facilidade de identificar categorias fixas/variáveis.  
+    - Ajustes rápidos com base em métricas de engajamento (ex.: número de gastos registrados por semana).
+
+  -----------------------------------------------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### 3. Entregando o Desafio na DIO
 
